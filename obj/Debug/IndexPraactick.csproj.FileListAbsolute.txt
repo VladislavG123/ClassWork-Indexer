@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\IndexPraactick\IndexPraactick\bin\Debug\IndexPraactick.exe.config
+C:\Users\user1\source\repos\IndexPraactick\IndexPraactick\bin\Debug\IndexPraactick.exe
+C:\Users\user1\source\repos\IndexPraactick\IndexPraactick\bin\Debug\IndexPraactick.pdb
+C:\Users\user1\source\repos\IndexPraactick\IndexPraactick\obj\Debug\IndexPraactick.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\IndexPraactick\IndexPraactick\obj\Debug\IndexPraactick.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\IndexPraactick\IndexPraactick\obj\Debug\IndexPraactick.exe
+C:\Users\user1\source\repos\IndexPraactick\IndexPraactick\obj\Debug\IndexPraactick.pdb
